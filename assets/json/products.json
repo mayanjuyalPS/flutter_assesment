@@ -1,0 +1,33 @@
+{
+    "title": "Fruits and Vegetables",
+    "product": [
+        {
+            "id": 1,
+            "name": "Fresho Kiwi - Green 3pcs",
+            "description": "Kiwis are oval shaped with brownish outer skin. The flesh is bright green and juicy with tiny edible black seeds.",
+            "image": "https://www.actazin.com/wp-content/uploads/2020/02/Kiwifruitcut_Fotor.jpg",
+            "amount": 87.00
+        },
+        {
+            "id": 2,
+            "name": "Apple - Washington, Regular, 4 pcs",
+            "description": "Kiwis are oval shaped with brownish outer skin. The flesh is bright green and juicy with tiny edible black seeds.",
+            "image": "https://www.seekpng.com/png/detail/50-502560_washington-apple-seb-1kg-apple-washington.png",
+            "amount": 100.00
+        },
+        {
+            "id": 3,
+            "name": "Capsicum green, 1 kg",
+            "description": "Kiwis are oval shaped with brownish outer skin. The flesh is bright green and juicy with tiny edible black seeds.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOnbUXZkM_Inikr9POvqKOLVdvu6iDzF6tUw&usqp=CAU",
+            "amount": 86.55
+        },
+        {
+            "id": 4,
+            "name": "Fresho Pomegrante Peeled, 500 gm",
+            "description": "Kiwis are oval shaped with brownish outer skin. The flesh is bright green and juicy with tiny edible black seeds.",
+            "image": "https://image1.jdomni.in/product/07032021/70/9E/AF/ABFFC9AA5B7906B9A9DDD5BEBC_1615111697308.jpg?fit=around|1024:768",
+            "amount": 99.77
+        }
+    ]
+}
